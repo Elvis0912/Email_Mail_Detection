@@ -107,4 +107,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 Project Maintainer: Elvis Marshall
 Email: elvismarshall99@gmail.com
-Project Repository: GitHub Link
+Project Repository: Email_Spam_Detection.ipynb
